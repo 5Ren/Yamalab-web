@@ -143,8 +143,9 @@ section h2 span {
 /* SEC03 PROJECT
 ------------------------------------------------------------*/
 #sec03 img{
-	width: 100%;
+	width: 60%;
 	margin-bottom: 30px;
+	padding: 0 20%;
 }
 
 
